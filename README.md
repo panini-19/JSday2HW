@@ -1,3 +1,3 @@
 # JSday2HW
 
-HW in JSday2 folder
+HW in JSHWday2 folder
